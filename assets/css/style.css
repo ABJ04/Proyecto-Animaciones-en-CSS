@@ -41,7 +41,7 @@ nav li {
 
 aside {
   grid-area: aside;
-  background-image: url(/assets/img/portada/Miproyecto.jpg);
+  background-image: url(assets/img/portada/Miproyecto.jpg);
   color: white;
   display: flex;
   justify-content: center;
@@ -154,7 +154,7 @@ footer {
 
   aside {
     grid-area: aside;
-    background-image: url(/assets/img/portada/Miproyecto.jpg);
+    background-image: url(assets/img/portada/Miproyecto.jpg);
     background-repeat: no-repeat;
     color: white;
     display: flex;
